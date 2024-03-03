@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"D.Raffler",
+	"description":	{
+		"":	"Automatisation de la mie en place de text  horloge "
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
